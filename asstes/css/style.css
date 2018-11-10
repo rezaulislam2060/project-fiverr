@@ -1,0 +1,181 @@
+*{
+	margin: 0;
+	padding: 0;
+
+}
+img{
+	max-width: 300px;
+}
+.logo {
+    font-size: 50px;
+    margin: 3px 0 -43px -2px;
+    color: #0f0f0e;
+}
+strong {
+    font-weight: bolder;
+    /* padding: 0px; */
+    color: #000;
+    text-transform: uppercase;
+}
+.header{
+	padding: 50px;
+}
+.header h1{
+	font-size: 50px;
+	text-transform: uppercase;
+
+}
+
+.fa-play-circle{
+	font-size: 35px;
+	text-decoration: none;
+}
+
+.creative-part{
+	padding-top: 40px;
+}
+.navbar-nav li a{
+	color: #000;
+	padding: 10px;
+}
+.fa-user{
+	color: #00B22D;
+    margin-top: 13px;
+    margin-right: 5px;
+}
+
+ h3{
+	
+	font-size: 25px;
+	padding: 15px;
+
+}
+h4 {
+    
+    font-weight: bold;
+	font-size: 40px;
+	color: #000;
+	padding-bottom: 25px;
+	text-transform: uppercase;
+}
+.creative-part a{
+	text-decoration: none;
+	color: #000;
+
+}
+.creative-part a:hover{
+	color: #00B12C;
+}
+.btn{
+	margin-top: 40px;
+	
+	color: #00B22D;
+	border: 1px solid #00B22D;
+	background-color:#fff;
+	
+}
+.btn:hover{
+	background: #00B22D;
+	background: transparent;
+
+	
+
+	
+}
+.creative-part .row{
+	padding-bottom: 30px;
+
+}
+
+
+
+
+
+
+/********Digital-marketing bg-white****/
+
+
+
+.Digital-marketing{
+	padding-top: 50px; 
+}
+h6{
+	font-weight: bold;
+	font-size: 40px;
+	color: #000;
+	padding-bottom: 25px;
+
+}
+h5{
+	padding-top: 5px;
+	font-size: 20px;
+	text-transform: uppercase;
+}
+.Digital-marketing a{
+	color: #000;
+}
+
+.Digital-marketing a:hover{
+	text-decoration: none;
+	color: #00B12C;
+
+}
+.Digital-marketing.card-img{
+	background:red;
+}
+.card-img:hover{
+	background: transparent;
+	color:blue;
+
+}
+.Digital-marketing a span{
+	font-size: 16px;
+	text-align: left;
+}
+.Digital-marketing .row{
+	padding-bottom: 30px;
+
+}
+
+
+
+
+.footer-section{
+	padding-top: 40px;
+	background: #F7F7F7;
+
+}
+
+.footer-section h2{
+	font-size: 25px;
+	color: #11433a;
+	text-transform: uppercase;
+	padding-top: 15px;
+}
+.footer-section ul a{
+	color: #000;
+	text-decoration: none;
+}
+.socel-icon p {
+    display: inline-block;
+    
+    font-size: 30px;
+    background: transparent;
+    width: 30px;
+    height: 30px;
+    line-height: 35px;
+   
+    padding-bottom: -1px;
+    margin: 0px 10px;
+}
+
+.cl span{
+	background: #00B22D;
+	height: 25px;
+	width: 25px;
+	text-transform: uppercase;
+	font-size: 15px;
+	color: #fff;
+	border-radius: 3px;
+	border: 1px solid #918888;
+}
